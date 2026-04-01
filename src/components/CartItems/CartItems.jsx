@@ -60,3 +60,7 @@ const CartItems = ({cart,setCart}) => {
 };
 
 export default CartItems;
+
+
+
+
